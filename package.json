@@ -1,0 +1,17 @@
+{
+  "name": "module-name",
+  "version": "0.0.0",
+  "description": "DESCRIPTION",
+  "main": "ENTRY.js",
+  "scripts": {
+    "test": "mocha -R spec tests/*"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "helper",
+    "vanilla"
+  ],
+  "author": "Marcus Blättermann <kontakt@essenmitsosse.de> (http://essenmitsosse.de)",
+  "license": "MIT"
+}
