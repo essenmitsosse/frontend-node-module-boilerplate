@@ -10,6 +10,7 @@
 	"bugs": {
 		"url": "https://github.com/essenmitsosse/***MODULENAME***/issues"
 	},
+	"homepage": "https://github.com/essenmitsosse/***MODULENAME***#readme",
 	"scripts": {
 		"test": "mocha -R spec tests/*",
 		"test:watch": "mocha -R min tests/* -watch",
