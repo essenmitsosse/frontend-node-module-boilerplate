@@ -3,6 +3,10 @@
 	"version": "0.0.0",
 	"description": "***DESCRIPTION***",
 	"main": "***MODULENAME***.js",
+	"files": [
+		"***MODULENAME***.js",
+		"/lib"
+	],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/essenmitsosse/***MODULENAME***"
