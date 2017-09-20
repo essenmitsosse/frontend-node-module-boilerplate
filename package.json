@@ -2,13 +2,13 @@
 	"name": "***MODULENAME***",
 	"version": "0.0.0",
 	"description": "***DESCRIPTION***",
-	"main": "***ENTRY.js***",
+	"main": "***MODULENAME***.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/essenmitsosse/***GITURLGOESHERE***"
+		"url": "git+https://github.com/essenmitsosse/***MODULENAME***"
 	},
 	"bugs": {
-		"url": "https://github.com/essenmitsosse/***GITURLGOESHERE***/issues"
+		"url": "https://github.com/essenmitsosse/***MODULENAME***/issues"
 	},
 	"scripts": {
 		"test": "mocha -R spec tests/*",
