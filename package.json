@@ -7,6 +7,9 @@
 		"type": "git",
 		"url": "git+https://github.com/essenmitsosse/***GITURLGOESHERE***"
 	},
+	"bugs": {
+		"url": "https://github.com/essenmitsosse/***GITURLGOESHERE***/issues"
+	},
 	"scripts": {
 		"test": "mocha -R spec tests/*",
 		"test:watch": "mocha -R min tests/* -watch",
