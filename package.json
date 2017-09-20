@@ -8,7 +8,9 @@
 		"url": "git+https://github.com/essenmitsosse/***GITURLGOESHERE***"
 	},
 	"scripts": {
-		"test": "mocha -R spec tests/*"
+		"test": "mocha -R spec tests/*",
+		"test:watch": "mocha -R min tests/* -watch",
+		"test:cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec tests/*"
 	},
 	"keywords": [
 		"javascript",
