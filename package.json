@@ -3,6 +3,10 @@
 	"version": "0.0.0",
 	"description": "***DESCRIPTION***",
 	"main": "***ENTRY.js***",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/essenmitsosse/***GITURLGOESHERE***"
+	},
 	"scripts": {
 		"test": "mocha -R spec tests/*"
 	},
