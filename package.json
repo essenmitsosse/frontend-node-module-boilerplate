@@ -1,8 +1,8 @@
 {
-	"name": "MODULENAME",
+	"name": "***MODULENAME***",
 	"version": "0.0.0",
-	"description": "DESCRIPTION",
-	"main": "ENTRY.js",
+	"description": "***DESCRIPTION***",
+	"main": "***ENTRY.js***",
 	"scripts": {
 		"test": "mocha -R spec tests/*"
 	},
